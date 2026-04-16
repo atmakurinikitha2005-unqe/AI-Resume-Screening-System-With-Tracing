@@ -1,0 +1,9 @@
+Job Title: Data Scientist
+
+Requirements:
+- Strong knowledge of Python, Machine Learning, Deep Learning
+- Experience with NLP and data preprocessing
+- Familiarity with TensorFlow, PyTorch, Scikit-learn
+- Experience with SQL and data visualization
+- Good problem-solving and communication skills
+- 2+ years of experience preferred

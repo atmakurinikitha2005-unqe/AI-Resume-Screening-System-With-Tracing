@@ -1,0 +1,15 @@
+Name: ATMAKURI NIKITHA
+
+Summary:
+Data Scientist with 3 years of experience in machine learning, deep learning, and NLP.
+
+Skills:
+Python, Machine Learning, Deep Learning, NLP, SQL, Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Matplotlib
+
+Experience:
+Worked on sentiment analysis, resume screening, and chatbot systems.
+Built NLP pipelines and classification models using Python and PyTorch.
+Developed dashboards and reports for business teams.
+
+Tools:
+Python, SQL, TensorFlow, PyTorch, Scikit-learn, Jupyter Notebook, Git

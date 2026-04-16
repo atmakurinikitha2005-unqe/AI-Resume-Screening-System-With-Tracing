@@ -1,0 +1,14 @@
+Name: Vinni
+
+Summary:
+Aspiring data analyst with internship experience in Python and machine learning basics.
+
+Skills:
+Python, SQL, Pandas, NumPy, Machine Learning, Excel
+
+Experience:
+Completed internship projects on data cleaning and regression models.
+Worked on basic classification tasks and visualizations.
+
+Tools:
+Python, SQL, Excel, Jupyter Notebook, Scikit-learn

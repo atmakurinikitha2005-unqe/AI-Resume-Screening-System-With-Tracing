@@ -1,0 +1,13 @@
+Name: Arjun Reddy
+
+Summary:
+Fresher interested in software and technical support roles.
+
+Skills:
+Java, HTML, CSS, MS Office, Communication
+
+Experience:
+Worked on simple web pages and academic mini projects.
+
+Tools:
+VS Code, MS Office, Git
