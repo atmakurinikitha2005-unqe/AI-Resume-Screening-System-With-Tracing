@@ -1,0 +1,7 @@
+langchain
+langchain-huggingface
+langsmith
+python-dotenv
+transformers
+torch
+accelerate
